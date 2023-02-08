@@ -1,4 +1,7 @@
 # CCBox-9.1_Fig1
+
+[![DOI](https://zenodo.org/badge/599016775.svg)](https://zenodo.org/badge/latestdoi/599016775)
+
 The Python script used is called:
 compute_OHC_ThSL_ensemble_FGD_python3.py 
 
