@@ -26,7 +26,7 @@ AR6_OHC_ensemble_FGD.pickle
 AR6_ThSL_ensemble_FGD.csv
 AR6_ThSL_ensemble_FGD.pickle 
 
-
+Please note that the code and data included in this repository are part of the pre-processing step needed before using the final Jupyter notebook and data to plot the Cross-Chapter Box 9.1, Figure 1 available here: https://github.com/BrodiePearson/IPCC_AR6_Chapter9_Figures/tree/main/Plotting_code_and_data/Cross_Chapter_Box9_1/Plot_Figure 
 For any questions, please contact Matt Palmer: matthew.palmer@metoffice.gov.uk 
 
 References: 
